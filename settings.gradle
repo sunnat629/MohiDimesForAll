@@ -8,5 +8,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MohiDimesForAll"
-include ':app'
 include ':mohiDimesForAll'
